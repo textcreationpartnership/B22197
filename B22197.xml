@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments resolution concerning the sending of Sir Thomas Barrington and M. Grimston to Colchester for the pacification of an uproare of 2000 men gathered together upon the discovering and apprehending of Sir Iohn Lucas ... : declared in a letter sent from the maior of Colchester to the House of Commons directed to M. John Pym, and read in the said House upon ... the 26 of August ...</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22197</idno><idno type="EEBO-CITATION">10590172</idno>
+  <idno type="VID">204633</idno>
+  <idno type="EEBO-PROQUEST">2248497128</idno>
+  
+            <idno type="STC">Wing E2147</idno>
+            <idno type="OCLC">10590172</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22197)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204633)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1382:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments resolution concerning the sending of Sir Thomas Barrington and M. Grimston to Colchester for the pacification of an uproare of 2000 men gathered together upon the discovering and apprehending of Sir Iohn Lucas ... : declared in a letter sent from the maior of Colchester to the House of Commons directed to M. John Pym, and read in the said House upon ... the 26 of August ...</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Willet,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages bound out of order.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Barrington, Thomas, --  Sir.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204633:1"/>
+            <pb facs="tcp:204633:2"/>
+            <pb facs="tcp:204633:2"/>
+            <p>THE PARLIAMENTS RESOLVTION CONCERNING The sending of Sir <hi>Thomas Barrington</hi> and <hi>M. Grimston</hi> to <hi>Colchester</hi> for the pacification of an uproare of 2000. men, gathered together upon the discovering and ap<g ref="char:EOLhyphen"/>prehending of Sir <hi>Iohn Lucas,</hi> with two hundred men, twelve warre-horse, and great store of Ammunition, with many Muskets, Pistols and Carbines ready charged, and by him provided to be sent to His Maiesty the day following,</p>
+            <p>Declared in a Letter sent from the Maior of <hi>Colchester</hi> to the House of Commons directed to <hi>M. John Pym,</hi> and read in the said House upon Friday morning last being the 26. of August,</p>
+            <p>And ordered at a Conference with the Lords, that Sir <hi>Thomas Barrington</hi> and <hi>M. Grimston</hi> should go down to appease the people, desiring them to depart quietly to their own houses, and giving them thanks for their forwardnesse to assist the Parliament.</p>
+            <p>Joh. Brown, Cler. Parl.</p>
+            <p>Printed for <hi>Tho. Willet. August</hi> 27. 1642.</p>
+            <pb facs="tcp:204633:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:204633:4"/>
+            <head>THE <hi>PARLIAENTS RESOLUTION</hi>
+               <lb/> For the sending of Sir <hi>Thomas Barrington</hi> and M. <hi>Grimston</hi> to <hi>Colchester</hi> to pacifie the uproare of 2000. people gathered together by occasion of the discovering and appre<g ref="char:EOLhyphen"/>hending of Sir <hi>Iohn Lucas</hi> with 200. souldi<g ref="char:EOLhyphen"/>ers and twelve Horse prepared to be sent to His Maiesty the day following.</head>
+            <head type="sub">Declared in a Letter sent from the Maior of <hi>Colchester</hi> to <hi>M. John Pym,</hi> and read in the House of Commons upon Friday the 26. of Au<g ref="char:EOLhyphen"/>gust, and ordered by the said House, that Sir <hi>Thomas Barrington</hi> and <hi>M. Grimston</hi> should desire them to depart to their houses, and thank them for their forwardnesse to assist the Parlia<g ref="char:EOLhyphen"/>ment.</head>
+            <p>
+               <seg rend="decorInit">U</seg>Pon Friday last being the six and twentieth day of August, the House of Commons received a Letter from the Maior of <hi>Col<g ref="char:EOLhyphen"/>chester</hi> directed to M. <hi>Iohn P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m</hi> Esquire, a member of the House of Com<g ref="char:EOLhyphen"/>mons,
+<pb n="2" facs="tcp:204633:5"/> declaring the fidelity and good affection of the inhabitants of the said town of <hi>Colche<g ref="char:EOLhyphen"/>ster</hi> and other townes thereabouts in that good service they performed for the King and Par<g ref="char:EOLhyphen"/>liament in taking away the great store of armes and ammunition that were found in the dwel<g ref="char:EOLhyphen"/>ling house of Sir <hi>Iohn Lucas</hi> neere <hi>Colchester,</hi> and how that a great many Muskets, Pistols, and Carbines were found ready charged; all which was discovered by one Captain <hi>Lumley,</hi> who forthwith informed the towne thereof; upon whose information the whole towne rose in a great uproare, and within a small time about two thousand people were gathered to<g ref="char:EOLhyphen"/>gether, who forthwith beset the house of the said Sir <hi>Iohn Lucas,</hi> but were denied entrance for a time; whereupon the people were so in<g ref="char:EOLhyphen"/>raged, that they demanded entrance without delay: they that were within the house percei<g ref="char:EOLhyphen"/>ving the multitude without to be too great for them to make opposition against, opened the gates, where after they had entred, they found twelve Horses fitted for warre, that should have gone to the King the next day, and two hundred men: Diverse of them being exami<g ref="char:EOLhyphen"/>ned concerning the occasion of their being there, would confesse nothing, but said that they were sworne to secrefie: the people hear<g ref="char:EOLhyphen"/>ing this answer, were further inraged against Sir <hi>Iohn Lucas,</hi> insomuch that the Maior was
+<pb n="3" facs="tcp:204633:3"/> inforced to carrie him home to his own house, to keep him from the violence of the people: Herewithall the people were no whit satisfied, but rather the more inraged (resolving either to have him out, or els they threatned to pull downe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Maiors house) untill he had sent him to the common Goale. The people yet are in great feare and amazement, and continue together in great multitudes, and will not re<g ref="char:EOLhyphen"/>turne to their habitations untill they have fur<g ref="char:EOLhyphen"/>ther satisfaction concerning him. The Maior not knowing what course to take with the people, nor how to pacifie them, sent with all speed to know the pleasure of the Parlia<g ref="char:EOLhyphen"/>ment concerning the same. After some debate of it in the House of Commons, they desired a Conference with the Lords, where the said Lerter was read, and thereupon the Lords and Commons ordered, that Sir <hi>Thomas Barring<g ref="char:EOLhyphen"/>ton,</hi> and M. <hi>Grimstone</hi> should goe with all speed downe to <hi>Colchester</hi> to appease the people, and to give them them thanks for their good affe<g ref="char:EOLhyphen"/>ction, and forwardnesse to assist the Parlia<g ref="char:EOLhyphen"/>ment, declaring to them, that the House took it as an acceptable service, desiring them to de<g ref="char:EOLhyphen"/>part to their owne houses.</p>
+            <p>The King being discontented, left <hi>Coventry:</hi> His Maiesty having heard these Propositions of the Citizens of <hi>Coventry,</hi> was not pleased to ac<g ref="char:EOLhyphen"/>cept of them, but very much displeased with
+<gap reason="missing" extent="1+ pages">
+                  <desc>〈1+ pages missing〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:204633:4"/> lives before the Cavaliers should have entrance, so they would adventure their lives &amp; fortunes in His Majesties service, if out of his Princely and gracious favour he would be pleased to take into consideration the wicked and tyrannicall acts and proceedings of the bloud-thirsty Ca<g ref="char:EOLhyphen"/>valiers that were resident with his Maiesty, and to discharge them from having any place of power or authority about his sacred Person. way possible for them to escape, unlesse that they betimes allay the indignation of the Kings designes, which are hitherto so violent, that he intends to make their City the obiect of the thund<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing Canon, and that their houses shall be beaten downe about their eares for their op<g ref="char:EOLhyphen"/>posing of his Maiesty, in refusing to give him admittance into their City. With these and such like comminations and threatnings the people are much disheartened and affrighted, and to increase their feares, together with the whole Kingdomes, the Kings Maiesty hath commanded all his subi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts on the North side of Trent, and all places adioyning within twenty miles Southward thereof, on the ob<g ref="char:EOLhyphen"/>ligation of their allegiance, to attend his Royall Person upon Munday being the two and twentieth day of this moneth of <hi>August.</hi> Now seeing the city would not give His Maie<g ref="char:EOLhyphen"/>sty admittance, being highly displeased; he g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve command forthwith to plant Ordnance against
+<pb n="5" facs="tcp:204633:5"/> the gates that were shut upon him; which was done accordingly, and immediately began his battery against the gates of the City, and at last broke downe the gates, and laid them open, breaking down a great part of the wall also: the souldiers that were within the city seeing that, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rayed heartily for the assistance of Almighty God, and to<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k such courage on a sudden, that they d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red the Cavaliers to make their entrance being ready to give them a hot charge. The Caval<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers being somwhat fearfull, durst not en<g ref="char:EOLhyphen"/>ter nor make their approach further then their own Ordnance could guard them. There was slaine in this fight about three hundred of the Cavaliers, and not above fifty at the most of the souldiers that were within the City.</p>
+            <p>Both Houses of Parliament being made ac<g ref="char:EOLhyphen"/>quainted with this tidings, declared, That the strange carriage of his Maiesty to so loyall sub<g ref="char:EOLhyphen"/>iects (that would have ioyfully entertained him) ought to be an example to the whole Kingdome, to arm and prepare to defend their townes and Countreyes: and all the world may see, that that is now come to passe, which the Parliament long foresaw, and that his Maiesty seduced by wicked Counsell, would make war to destroy his Parliament: and that as soone as this power is obtained by the villanous Cava<g ref="char:EOLhyphen"/>liers, they will endeavour to shew the like cru<g ref="char:EOLhyphen"/>elty to other Townes and Cities.</p>
+            <pb n="6" facs="tcp:204633:6"/>
+            <p> Great numbers of the Cavaliers do daily revolt from the Kings Party, and profer to serve the Parliament in whatsoever service they should be pleased to command them. It is ob<g ref="char:EOLhyphen"/>vious to every mans understanding of what merccnary spirits they are, who for their profit will take part with any side.</p>
+            <p>The Lords and Commons in Parliament declare, That all such persons as shall, upon any pretence whatsoever, assist His Maiesty in this Warre, with Horse, Arms, Plate or Money, are Traytors to His Maiesty, the Parliament and Kingdome, and shall be brought to con<g ref="char:EOLhyphen"/>digne punishment for so high an offence.</p>
+            <closer/>
+            <postscript>
+               <p>Ordered to be forthwith printed &amp; published,</p>
+               <closer>
+                  <signed>Joh. Brown Cleric. Parliament.</signed>
+               </closer>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204633:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
